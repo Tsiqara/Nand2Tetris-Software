@@ -11,4 +11,4 @@ class Assembler:
         return cls()
 
     def assemble(self, assembly: Iterable[str]) -> Iterable[str]:
-        pass  # TODO: your work for Project 6 starts here
+        return []  # TODO: your work for Project 6 starts here
