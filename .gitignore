@@ -97,3 +97,5 @@ dmypy.json
 # IDEs
 .idea
 .vscode
+
+/tests/e2e/nand2tetris
