@@ -1,3 +1,11 @@
+# Nand2Tetris Projects Implemented
+
+- Project 6: The Assembler  -  https://www.nand2tetris.org/project06
+- Project 7: Virtual Machine I - Stack Arithmetic  -  https://www.nand2tetris.org/project07
+- Project 8: Virtual Machine II - Program Control - https://www.nand2tetris.org/project08
+- Project 10: Compiler I - Syntax Analysis - https://www.nand2tetris.org/project10
+- Project 11: Compiler II - Code Generation - https://www.nand2tetris.org/project11
+  
 # Nand2Tetris Python Starter
 
 The repository contains (Python) starter project for Nand2Tetris spin-off course read in
