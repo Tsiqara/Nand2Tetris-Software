@@ -12,6 +12,9 @@ class FileFormat(Enum):
     xml = ".xml"
     hack = ".hack"
     asm = ".asm"
+    vm = ".vm"
+    jack = ".jack"
+    json = ".json"
 
     def validate(self, path: Path) -> None:
         assert path.suffix == self.value
