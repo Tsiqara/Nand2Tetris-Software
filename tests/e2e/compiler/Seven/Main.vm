@@ -1,0 +1,9 @@
+function Main.main 0
+  call Output.printInt 1
+  push 2
+  push 3
+  Math.multiply 2
+  add
+  pop temp 0
+  push constant 0
+  return
